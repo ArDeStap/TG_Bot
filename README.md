@@ -1,1 +1,1 @@
-# TG_Bot
+Телеграм бот с ИИ для GitPro. Для запуска необходимо активировать venv (source ./venv/bin/activate), за тем запустить python main.py
