@@ -28,6 +28,7 @@ MANIFEST
 
 *.txt
 api_key
+tg_token
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
